@@ -1,4 +1,4 @@
-# Hand-Gesture-Recognition-Deep-Learning-
+# Hand-Gesture-Recognition-Deep-Learning
 A Deep Learning based approach to classify human gestures for smart appliances.
 
 To install the requirements use: ***pip install -r Requirements.txt***
